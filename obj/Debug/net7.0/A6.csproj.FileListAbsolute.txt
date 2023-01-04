@@ -1,0 +1,15 @@
+C:\Users\eujosh\Downloads\C# Projects\A6\bin\Debug\net7.0\A6.exe
+C:\Users\eujosh\Downloads\C# Projects\A6\bin\Debug\net7.0\A6.deps.json
+C:\Users\eujosh\Downloads\C# Projects\A6\bin\Debug\net7.0\A6.runtimeconfig.json
+C:\Users\eujosh\Downloads\C# Projects\A6\bin\Debug\net7.0\A6.dll
+C:\Users\eujosh\Downloads\C# Projects\A6\bin\Debug\net7.0\A6.pdb
+C:\Users\eujosh\Downloads\C# Projects\A6\obj\Debug\net7.0\A6.csproj.AssemblyReference.cache
+C:\Users\eujosh\Downloads\C# Projects\A6\obj\Debug\net7.0\A6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eujosh\Downloads\C# Projects\A6\obj\Debug\net7.0\A6.AssemblyInfoInputs.cache
+C:\Users\eujosh\Downloads\C# Projects\A6\obj\Debug\net7.0\A6.AssemblyInfo.cs
+C:\Users\eujosh\Downloads\C# Projects\A6\obj\Debug\net7.0\A6.csproj.CoreCompileInputs.cache
+C:\Users\eujosh\Downloads\C# Projects\A6\obj\Debug\net7.0\A6.dll
+C:\Users\eujosh\Downloads\C# Projects\A6\obj\Debug\net7.0\refint\A6.dll
+C:\Users\eujosh\Downloads\C# Projects\A6\obj\Debug\net7.0\A6.pdb
+C:\Users\eujosh\Downloads\C# Projects\A6\obj\Debug\net7.0\A6.genruntimeconfig.cache
+C:\Users\eujosh\Downloads\C# Projects\A6\obj\Debug\net7.0\ref\A6.dll
